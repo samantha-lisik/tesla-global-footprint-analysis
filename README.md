@@ -65,7 +65,8 @@ The storyboard focuses on the final insights. All exploratory steps, intermediat
 - A cleaned dataset extracted for trend analysis of deliveries and sustainability impact
 
 🔍 **Analysis Components**
-✔ Exploratory Data Analysis
+
+✔ **Exploratory Data Analysis**
 
 - Pair plots, correlation heatmap, scatterplots
 
