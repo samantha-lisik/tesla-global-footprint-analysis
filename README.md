@@ -48,21 +48,21 @@ The storyboard focuses on the final insights. All exploratory steps, intermediat
 📦 **Data Sources**
 1. Tesla Global Deliveries Dataset (Primary)
 
-Dataset source: [Kaggle – Tesla Global Deliveries](https://www.kaggle.com/datasets/rehan497/tesla-global-deliveries-dataset-20152025)
+- Dataset source: [Kaggle – Tesla Global Deliveries](https://www.kaggle.com/datasets/rehan497/tesla-global-deliveries-dataset-20152025)
 
-Author: Rehan Ahmed
+- Author: Rehan Ahmed
 
-Includes: deliveries, production, price, CO₂ savings, battery capacity, charging infrastructure, region labels
+- Includes: deliveries, production, price, CO₂ savings, battery capacity, charging infrastructure, region labels
 
 2. Custom GeoJSON Regions File
 
-Created to map Tesla metrics by North America, Europe, and Asia
+- Created to map Tesla metrics by North America, Europe, and Asia
 
-Used for Tableau geospatial visualizations
+- Used for Tableau geospatial visualizations
 
 3. Time-Series Preparation
 
-A cleaned dataset extracted for trend analysis of deliveries and sustainability impact
+- A cleaned dataset extracted for trend analysis of deliveries and sustainability impact
 
 🔍 **Analysis Components**
 ✔ Exploratory Data Analysis
