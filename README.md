@@ -1,7 +1,7 @@
-🌍 **Tesla Global Footprint Analysis (2015–2025)
+**Tesla Global Footprint Analysis (2015–2025)
 Deliveries, CO₂ Impact & Market Segmentation**
 
-📌 **Overview**
+**Overview**
 
 This project explores Tesla’s global presence using open-source data covering 2015–2025. The analysis examines:
 
@@ -19,11 +19,11 @@ This project explores Tesla’s global presence using open-source data covering 
 
 The results are curated into an interactive Tableau storyboard, highlighting the most meaningful insights for stakeholders.
 
-👉 View the full Tableau Storyboard [here](https://public.tableau.com/views/YourDashboard/Story).
+View the full Tableau Storyboard [here](https://public.tableau.com/views/YourDashboard/Story).
 
 The storyboard focuses on the final insights. All exploratory steps, intermediate models, and analyses are documented in the notebooks within this repository.
 
-🧠 **Project Objectives**
+**Project Objectives**
 
 - Understand Tesla’s global delivery growth and environmental impact
 
@@ -35,7 +35,7 @@ The storyboard focuses on the final insights. All exploratory steps, intermediat
 
 - Communicate insights in a clear, business-friendly Tableau narrative
 
-📁 **Repository Structure**
+**Repository Structure**
 | Folder              | Description                                                                                                                                                                                                                                                  |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Data/**           | Contains datasets used in the project, including **Original Data/** (raw Kaggle dataset + GeoJSON) and **Prepared Data/** (cleaned, formatted data).                                                                                                         |
@@ -45,7 +45,7 @@ The storyboard focuses on the final insights. All exploratory steps, intermediat
 
 
 
-📦 **Data Sources**
+**Data Sources**
 1. Tesla Global Deliveries Dataset (Primary)
 
 - Dataset source: [Kaggle – Tesla Global Deliveries](https://www.kaggle.com/datasets/rehan497/tesla-global-deliveries-dataset-20152025)
@@ -64,7 +64,7 @@ The storyboard focuses on the final insights. All exploratory steps, intermediat
 
 - A cleaned dataset extracted for trend analysis of deliveries and sustainability impact
 
-🔍 **Analysis Components**
+**Analysis Components**
 
 ✔ **Exploratory Data Analysis**
 
@@ -96,7 +96,7 @@ The storyboard focuses on the final insights. All exploratory steps, intermediat
 
 - Insight into Tesla’s global expansion trajectory
 
-📈 **Key Insights**
+**Key Insights**
 
 - Deliveries and CO₂ savings are strongly correlated, confirming that Tesla’s growth directly scales environmental impact.
 
@@ -106,7 +106,7 @@ The storyboard focuses on the final insights. All exploratory steps, intermediat
 
 - Tesla’s footprint is not uniform globally, and regions require individual strategies.
 
-🧰 **Tools & Technologies**
+**Tools & Technologies**
 
 - Python: pandas, seaborn, matplotlib, scikit-learn, statsmodels
 
